@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-We pay attention and research on computer open source technology, and aim to use open source to give back to open source.
+Focuses on and researches computer open source technology, and aims to use open source to give back to open source.
 
 [![](https://img.shields.io/badge/AcmeStack.org-2442bf.svg)](https://acmestack.org/)[![](https://img.shields.io/badge/Contact_Us-green.svg?style=socail&logo=gmail&logoColor=white)](mailto:contactus@openingo.org)
 
