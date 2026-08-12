@@ -13,8 +13,8 @@
 
 Focuses on and researches computer open source technology, and aims to use open source to give back to open source.
 
-[![](https://img.shields.io/badge/AcmeStack.org-2442bf.svg)](https://acmestack.org/)[![](https://img.shields.io/badge/Contact_Us-green.svg?style=socail&logo=gmail&logoColor=white)](mailto:contactus@openingo.org)
+[![](https://img.shields.io/badge/acmestack.com-2442bf.svg)](https://acmestack.com/)[![](https://img.shields.io/badge/Contact_Us-green.svg?style=socail&logo=gmail&logoColor=white)](mailto:contactus@openingo.org)
 
 
-#### [Contributing Guide](https://acmestack.org/docs/introduction/)
+#### [Contributing Guide](https://acmestack.com/docs/introduction/)
 
